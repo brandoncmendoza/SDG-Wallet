@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>SDG Wallet &#8211; Virtual Tokens</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="SDG Wallet &raquo; Feed" href="https://sdgwallet.000webhostapp.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="SDG Wallet &raquo; Feed de los comentarios" href="https://sdgwallet.000webhostapp.com/comments/feed" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.14.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- Nota: MonsterInsights no está actualmente configurado en este sitio. El dueño del sitio necesita identificarse usando su cuenta de Google Analytics en el panel de ajustes de MonsterInsights. -->
+<!-- No UA code set -->
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sdgwallet.000webhostapp.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='https://sdgwallet.000webhostapp.com/wp-includes/css/dashicons.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://sdgwallet.000webhostapp.com/wp-includes/css/admin-bar.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://sdgwallet.000webhostapp.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://sdgwallet.000webhostapp.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='monsterinsights-vue-frontend-style-css'  href='https://sdgwallet.000webhostapp.com/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/css/frontend.css?ver=7.14.0' type='text/css' media='all' />
+<link rel='stylesheet' id='monsterinsights-popular-posts-style-css'  href='https://sdgwallet.000webhostapp.com/wp-content/plugins/google-analytics-for-wordpress/assets/css/frontend.min.css?ver=7.14.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpforms-admin-bar-css'  href='https://sdgwallet.000webhostapp.com/wp-content/plugins/wpforms-lite/assets/css/admin-bar.min.css?ver=1.6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg/assets/bootstrap/css/bootstrap.min.css?ver=0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-css'  href='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg/assets/icons/font-awesome-5/css/all.css?ver=0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bizberg-main-css'  href='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg/assets/css/main.css?ver=0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bizberg-component-css'  href='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg/assets/css/component.css?ver=0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bizberg-style2-css'  href='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg/assets/css/style.css?ver=0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bizberg-responsive-css'  href='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg/assets/css/responsive.css?ver=0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bizberg_consulting_dark_chld_css-css'  href='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg/style.css?ver=0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bizberg-style-css'  href='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg-consulting-dark/style.css?ver=5.6' type='text/css' media='all' />
+<style id='bizberg-style-inline-css' type='text/css'>
+.banner .slider .overlay {
+	   background: linear-gradient(-90deg, rgba(20,0,0,0.30), rgba(221,51,51,0.3));
+	}.breadcrumb-wrapper .section-title{ text-align:center;padding-top:165px; padding-bottom:165px; padding-left:0px; padding-right:0px }.banner .slider .swiper-button-next, .banner .slider .swiper-button-prev { border-radius: 0px; transform: rotate(45deg); } .banner .slider .swiper-button-next:after, .banner .slider .swiper-button-prev:after{ transform: rotate(-45deg); }body{ background-image: linear-gradient(to right,#000,#000),url(  ); 
+	background-repeat : repeat;
+	background-position : center center;
+	background-size : cover;
+	background-attachment : scroll;}.primary_header_2_wrapper{ background-image: linear-gradient(to right,rgba(255,255,255,0),rgba(255,255,255,0)),url(  ); 
+	background-repeat : repeat;
+	background-position : center center;
+	background-size : cover;
+	background-attachment : scroll;}body:not(.page-template-page-fullwidth-transparent-header) header#masthead #top-bar { background: #3a4cb4;
+    background: -moz-linear-gradient(90deg, #3a4cb4 0%, #fd1d1d 100%);
+    background: -webkit-linear-gradient(90deg, #3a4cb4 0%, #fd1d1d 100%);
+    background: linear-gradient(90deg, #3a4cb4 0%, #fd1d1d 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#3a4cb4', endColorstr='#3a4cb4', GradientType=1); }.navbar-default { background: #000;
+    background: -moz-linear-gradient(90deg, #000 0%, #000 100%);
+    background: -webkit-linear-gradient(90deg, #000 0%, #000 100%);
+    background: linear-gradient(90deg, #000 0%, #000 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#000', endColorstr='#000', GradientType=1); }.navbar.sticky { background: #dd3333;
+    background: -moz-linear-gradient(90deg, #dd3333 0%, #dd3333 100%);
+    background: -webkit-linear-gradient(90deg, #dd3333 0%, #dd3333 100%);
+    background: linear-gradient(90deg, #dd3333 0%, #dd3333 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#dd3333', endColorstr='#dd3333', GradientType=1); }a.slider_btn { background: #dd3333;
+    background: -moz-linear-gradient(90deg, #dd3333 0%, #dd3333 100%);
+    background: -webkit-linear-gradient(90deg, #dd3333 0%, #dd3333 100%);
+    background: linear-gradient(90deg, #dd3333 0%, #dd3333 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#dd3333', endColorstr='#dd3333', GradientType=1); }.featured_cat_background_0{ background:#0088cc !important; }
+</style>
+<link rel='stylesheet' id='bizberg-google-fonts-css'  href='//fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&#038;display=swap' type='text/css' media='all' />
+<script type='text/javascript' src='https://sdgwallet.000webhostapp.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://sdgwallet.000webhostapp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://sdgwallet.000webhostapp.com/wp-content/themes/bizberg/assets/bootstrap/js/bootstrap.min.js?ver=0.3' id='bootstrap-js'></script>
+<link rel="https://api.w.org/" href="https://sdgwallet.000webhostapp.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sdgwallet.000webhostapp.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sdgwallet.000webhostapp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<script>
+				( function() {
+					function wpforms_js_error_loading() {
+						
+						if ( typeof window.wpforms !== 'undefined' ) {
+							return;
+						}
+						
+						var forms = document.querySelectorAll( '.wpforms-form' );
+						
+						if ( ! forms.length ) {
+							return;
+						}
+						
+						var error = document.createElement( 'div' );
+
+						error.classList.add( 'wpforms-error-container' );
+						error.innerHTML = '¡Atención! WPForms ha detectado un problema con JavaScript en esta página. Se necesita JavaScript para que este formulario funcione correctamente, por lo que puede no funcionar como se espera. Consulta nuestra <a href="https://wpforms.com/docs/getting-support-wpforms/" target="_blank" rel="noopener noreferrer">guía de diagnóstico</a> para aprender más o contacta con el soporte.<p>Este mensaje solo se muestra a los administradores del sitio.</p>';
+
+						forms.forEach( function( form ) {
+						
+							if ( ! form.querySelector( '.wpforms-error-container' ) ) {
+								form.insertBefore( error.cloneNode( true ), form.firstChild );
+							}
+						} );
+					};
+				
+					if ( document.readyState === 'loading' ) {
+						document.addEventListener( 'DOMContentLoaded', wpforms_js_error_loading );
+					} else {
+						wpforms_js_error_loading();
+					}
+				}() );
+			</script><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
